@@ -15,5 +15,5 @@ I'm a Data Analyst & Data Visualization Specialist with nearly a decade of exper
 - [UNHCR Dataviz Github](https://github.com/unhcr-dataviz) 
   
 ### How to reach me: 
-[Email](mailto:leichen.88@hotmail.com) | [Linkedin]([https://www.linkedin.com/in/lei-chen-a2156987/](https://www.linkedin.com/in/lei-chen-a2156987/))
+[Email](mailto:leichen.88@hotmail.com) | [Linkedin](https://www.linkedin.com/in/lei-chen-a2156987/)
 
